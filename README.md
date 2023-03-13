@@ -11,8 +11,9 @@ A large multi-category online store in the US was looking for more insights abou
  2. Preparing environment and data
  3. Exploratory Analysis & Business Questions
  4. Conclusion & recommendations
- 5. Reference
- 6. Html link for my assignment
+ 
+ The project has also a lot of vizual examples, take a look :)
+
  
 ## Introduction
 More and more, brands have enlisted digital technologies to scale their businesses at the center of what we’d like to call a 
